@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Blosdz
-- 👀 I’m interested in new ways to improve my coding skills
-- 🌱 I’m currently learning Cs.
 - 💞️ I’m looking to collaborate on many projects.
 
 <!---
